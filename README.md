@@ -1,3 +1,13 @@
+# React Note Taking App
+
+An advanced note-taking app using React and TypeScript. The app includes features such as filtering categories, markdown support, full routing, deleting, editing, and updating. Built with React Router for routing and Bootstrap for styling. The app is highly customizable and user-friendly, making it ideal as an advanced developer portfolio.
+
+KEY POINTS:
+- Creates an advanced note-taking app with React and TypeScript
+- Includes filtering categories, markdown support, full routing, CRUD operations
+- Uses React Router for routing and Bootstrap for styling
+- Results in a highly customizable and user-friendly app, ideal for an advanced developer project
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
